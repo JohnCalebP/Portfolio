@@ -51,7 +51,9 @@ In my most recent role at Travelshift, I tested new features and conducted regre
 
 # Certifications
 <ul>
-  
+<li><a href="https://testlio.com/network/" target="_blank">Functional Regression Testing Certificate</a></li>
+<li><a href="https://www.prc.gov.ph/" target="_blank">
+Registered Electrical Engineer - Professional Regulation Commission</a></li>  
 </ul>
 
 # Manual Testing Samples
