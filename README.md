@@ -46,7 +46,10 @@ In my most recent role at Travelshift, I tested new features and conducted regre
   <li><a href="https://www.udemy.com/course/sdlc-models/" target="_blank">SDLC Models</a></li>
   <li><a href="https://www.youtube.com/watch?v=0PbTi_Prpgs&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E" target="_blank">Computer Networking</a></li>
   <li><a href="https://www.youtube.com/watch?v=rOt53yFFTPQ&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E&index=29" target=_blank">USACS Hacker Hour: Chrome Developer Tools</a></li>
-  
+  <li>**Target: JavaScript youtube course**</li>
+  <li>**HTML/CSS youtube course**</li>
+  <li>**Target: Git GitHub version control course**</li>
+  <li>**Target: SQL youtube courxe**</li>
 </ul>
 
 # Certifications
@@ -54,16 +57,20 @@ In my most recent role at Travelshift, I tested new features and conducted regre
 <li><a href="https://testlio.com/network/" target="_blank">Functional Regression Testing Certificate</a></li>
 <li><a href="https://www.prc.gov.ph/" target="_blank">
 Registered Electrical Engineer - Professional Regulation Commission</a></li>  
+<li>**Target: Playwright Certification**</li>
 </ul>
 
 # Manual Testing Samples
 <ul>
+<li>**Target: Test Plan, Test Case, Bug Report, Test report**</li>
+<li>**Target: Test Plan, Test Case, Bug Report, Test report**</li>
   
 </ul>
 
 # Automation Testing Samples
 <ul>
-  
+<li>**Target: Playwright Automation test cases, Automationt test report**</li>
+<li>**Target: Playwright Automation test cases, Automationt test report**</li>
 </ul>
 
 
