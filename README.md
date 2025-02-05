@@ -41,6 +41,12 @@ In my most recent role at Travelshift, I tested new features and conducted regre
 
 # Courses
 <ul>
+  <li><a href="https://www.udemy.com/course/istqb-certified-tester-foundation-level-training-ctfl/" target=_blank">ISTQB Certified Tester Foundation Level (CTFL)</a></li>
+  <li><a href="https://www.udemy.com/course/agile-with-scrum-from-beginner-to-advanced-project-management-agile/" target="_blank">Agile with Scrum</a></li>
+  <li><a href="https://www.udemy.com/course/sdlc-models/" target="_blank">SDLC Models</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0PbTi_Prpgs&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E" target="_blank">Computer Networking</a></li>
+  <li><a href="USACS Hacker Hour: Chrome Developer Tools" target=_blank">USACS Hacker Hour: Chrome Developer Tools</a></li>
+  
 </ul>
 
 # Certifications
