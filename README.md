@@ -38,4 +38,24 @@ In my most recent role at Travelshift, I tested new features and conducted regre
   <li>Automation testing</li>
   <li>Familiar with HTML, CSS, JavaScript</li>
 </ul>
+
+# Courses
+<ul>
 </ul>
+
+# Certifications
+<ul>
+  
+</ul>
+
+# Manual Testing Samples
+<ul>
+  
+</ul>
+
+# Automation Testing Samples
+<ul>
+  
+</ul>
+
+
