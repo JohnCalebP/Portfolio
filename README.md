@@ -17,4 +17,5 @@ In my most recent role at Travelshift, I tested new features and conducted regre
 # Tools
 <ul>
   <li><a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a> - Bug Tracking Tool</li>
+  <li><a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>, <a href="https://www.lambdatest.com/" target="_blank" </a> - Cross browser & Cross device testing</li>
 </ul>
