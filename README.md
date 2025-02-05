@@ -6,8 +6,8 @@ Later, I gained structured experience in a professional testing environment, wor
 This portfolio showcases my practical skills, learnings, and continuous growth. My current focus is enhancing both manual and automation testing to increase test coverage and improve my skills
 
 # My Experience
-I have extensive experience in manual and automated software testing, specializing in regression testing, exploratory testing, cross-browser testing, and API testing. My work at uTest, Testlio, Travelshift, and FilPass involved executing test cases, reporting bugs, and ensuring software functionality across various web and mobile applications.
+Starting with PressPlay Pioneer as a Manual QA Tester, I performed manual QA testing on a music streaming platform. This role marked the beginning of my career in software testing, where I executed over 400 test cases, focusing on test case execution and exploratory testing to ensure functionality and user experience.
 
-At FilPass, I implemented test automation using Playwright (JavaScript), maintained test scripts via Bitbucket, and conducted end-to-end testing. In Travelshift, I performed cross-browser testing using BrowserStack and LambdaTest and validated UI/UX designs. My testing also involved network debugging with Charles Proxy, API validation using Postman, and test management through TestRail, Qase, and JIRA.
+Following that, I expanded my experience at uTest and Testlio, where I worked on manual and automated testing for a wide range of applications, including regression testing, cross-browser testing, and API validation. At FilPass, I gained expertise in automation testing using Playwright (JavaScript), where I developed and maintained test scripts, and at Travelshift, I performed cross-browser testing with BrowserStack and LambdaTest.
 
-I continuously enhance my expertise in manual and automation testing to improve test coverage and software quality across diverse platforms
+I continue to focus on improving test coverage and software quality by mastering both manual and automation testing techniques across various platforms. 
