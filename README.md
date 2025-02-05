@@ -13,3 +13,8 @@ I later joined uTest and Testlio, where I had the opportunity to collaborate wit
 At FilPass, I took on more responsibilities and learned how to contribute to both manual testing and automation testing efforts. Here, I collaborated with teams to verify system functionalities and improve the overall testing process. I also had the chance to test with various tools and frameworks, gaining further insight into the QA process.
 
 In my most recent role at Travelshift, I tested new features and conducted regression and cross-browser testing, collaborating closely with developers and product managers. I continue to focus on improving test coverage and software quality by mastering both manual and automation testing techniques across various platforms. 
+
+# Tools
+<ul>
+  <li><a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a> - Bug Tracking Tool</li>
+</ul>
