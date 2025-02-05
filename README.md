@@ -8,6 +8,6 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
 # My Experience
 Starting with PressPlay Pioneer as a Manual QA Tester, I performed manual QA testing on a music streaming platform. This role marked the beginning of my career in software testing, where I executed over 400 test cases, focusing on test case execution and exploratory testing to ensure functionality and user experience.
 
-Following that, I expanded my experience at uTest and Testlio, where I worked on manual and automated testing for a wide range of applications, including regression testing, cross-browser testing, and API validation. At FilPass, I gained expertise in automation testing using Playwright (JavaScript), where I developed and maintained test scripts, and at Travelshift, I performed cross-browser testing with BrowserStack and LambdaTest.
+Following that, I expanded my experience at uTest and Testlio, where I worked on manual and UI/UX testing for a wide range of applications, including regression testing, cross-browser testing, and API validation. At FilPass, I gained expertise in automation testing using Playwright (JavaScript), where I developed and maintained test scripts, and at Travelshift, I performed cross-browser testing with BrowserStack and LambdaTest.
 
 I continue to focus on improving test coverage and software quality by mastering both manual and automation testing techniques across various platforms. 
