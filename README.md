@@ -23,5 +23,18 @@ In my most recent role at Travelshift, I tested new features and conducted regre
   <li><a href="https://www.postman.com/" target="_blank">Postman</a> - API testing</li>
   <li><a href="https://playwright.dev/" target="_blank">Playwright</a> - Automation testing</li>
   <li><a href="https://bitbucket.org/product/" target="_blank">Bitbucket</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://git-scm.com/" target="_blank">Git</a> - Version control and source code management</li>
-  
+
+# Tech skills 
+<ul>
+  <li>Creating and Managing test cases</li>
+  <li>Finding and Reporting bugs</li>
+  <li>Test Documentation</li>
+  <li>Agile Scrum workflow</li>
+  <li>Functional testing</li>
+  <li>Regression testing</li>
+  <li>Smoke testing</li>
+  <li>Exploratory testing</li>
+  <li>Automation testing</li>
+  <li>Familiar with HTML, CSS, JavaScript</li>
+</ul>
 </ul>
