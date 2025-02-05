@@ -20,5 +20,8 @@ In my most recent role at Travelshift, I tested new features and conducted regre
   <li><a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>, <a href="https://www.lambdatest.com/" target="_blank">Lambdatest</a> - Cross browser & Cross device testing</li>
   <li><a href="https://developer.chrome.com/docs/devtools" target="_blank">Chrome DevTools</a> and <a href="https://www.charlesproxy.com/" target="_blank">Charles</a> - Debugging and inspecting web applications</li>
   <li><a href="https://www.testrail.com/" target="_blank">TestRail</a>, <a href="https://qase.io/" target="_blank">Qase</a>, <a href="https://docs.google.com/" target="_blank">Google Sheets</a> - Test documentation and management</li>
-  <li><a href=""</li>
+  <li><a href="https://www.postman.com/" target="_blank">Postman</a> - API testing</li>
+  <li><a href="https://playwright.dev/" target="_blank">Playwright</a> - Automation testing</li>
+  <li><a hre="https://bitbucket.org/product/" target="_blank">Bitbucket</a>, <a href="https://github.com/" target="_blank">GitHub</a> <a href="https://git-scm.com/" target="_blank">Git</a> - Version control and source code management</li>
+  
 </ul>
