@@ -54,7 +54,7 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 
 # Manual Testing Samples
 <ul>
-<p>1. Polymer Shope [E-Commerce Website]</p>
+<p><strong>1. Polymer Shope [E-Commerce Website]</strong></p>
 <li><a href="https://docs.google.com/spreadsheets/d/1vJg_ushpWhw-F99yORnwyDNRtDQQZY63/edit?usp=sharing&ouid=104076983359367485293&rtpof=true&sd=true" target="_blank">Test Plan</a></li>
 <li><a href="https://drive.google.com/file/d/1cwU3SkmKzloM_aRKm2_SHnniX5NcLXzh/view?usp=sharing" target="_blank">Test Suite/Test Cases</a></li>
 <li><a href="https://drive.google.com/file/d/1TqQ62bo0MamQ5OWoJOXorsLVul5CcO-H/view?usp=sharing" target="_blank">Bug Report</a></li>
