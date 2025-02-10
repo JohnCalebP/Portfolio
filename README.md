@@ -43,6 +43,7 @@ I started my QA journey at PressPlay Pioneer, executing test cases on a music st
 # Certifications
 <ul>
 <li><a href="https://testlio.com/network/" target="_blank">Functional Regression Testing Certificate</a></li>
+<li><a href="https://drive.google.com/file/d/1t4QZwlTm1E534vzTvdfcgRQEZSAespr5/view?usp=sharing" target="_blank">Playwright - TestAutomationUniversity</a></li>
 <li><a href="https://www.prc.gov.ph/" target="_blank">
 Registered Electrical Engineer - Professional Regulation Commission</a></li>  
 </ul>
