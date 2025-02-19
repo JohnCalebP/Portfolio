@@ -59,6 +59,7 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 <p><strong>2. Inventory Management System</strong></p>  
   <li><a href="https://drive.google.com/file/d/1ynZeFAUvQMC8ENlifclcVxCvkqkP1MpN/view?usp=sharing" target="_blank">Test Plan</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1jy-m-eRfG7D55unyU7DkXTKx2C8SvFRZ/edit?usp=sharing" target="_blank">Test Case</a></li>
+  <li><a href="https://drive.google.com/file/d/1nURxxiBZlzHV7dDzXfMeO9-S0k4Ychpx/view?usp=sharing" target="_blank">Bug Report</a></li>
 </ul>
 
 
