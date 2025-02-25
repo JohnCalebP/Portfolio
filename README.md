@@ -38,6 +38,7 @@ I started my QA journey at PressPlay Pioneer, executing test cases on a music st
   <li><a href="https://www.udemy.com/course/sdlc-models/" target="_blank">SDLC Models</a></li>
   <li><a href="https://www.youtube.com/watch?v=0PbTi_Prpgs&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E" target="_blank">Computer Networking</a></li>
   <li><a href="https://www.youtube.com/watch?v=rOt53yFFTPQ&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E&index=29" target=_blank">USACS Hacker Hour: Chrome Developer Tools</a></li>
+  <li><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc" target="_blank">HTML/CSS Full Course</a></li>
 </ul>
 
 # Certifications
