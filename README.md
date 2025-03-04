@@ -68,5 +68,11 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
   <li><a href="https://drive.google.com/file/d/16px5A9smDjQe2NpYZUiovN82iP6shA8K/view?usp=sharing" target="_blank">Bug Report</a></li>
 </ul>
 
+# Blog
+<ul>
+  <p><strong>Medium</strong></p>
+  <p>https://medium.com/@johncalebpananganan</p>
+</ul>
+
 
 
