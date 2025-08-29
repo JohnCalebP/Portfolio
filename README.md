@@ -1,7 +1,7 @@
 # Portfolio
-I'm Caleb, a Software QA Tester with experience in manual, database, API and automation testing. I began my career executing test cases, ensuring platform stability, and reporting defects. As I aimed to grow my skills, I joined a freelance platform, working with global teams on fast-paced projects. I also expanded my expertise in cross-browser testing with tools like BrowserStack and LambdaTest, collaborating closely with developers and senior QAs to enhance testing efficiency.
+I'm Caleb, a Software QA Tester with experience in manual, database, API and automation testing. I began my career executing test cases, ensuring platform stability, and reporting defects. As I aimed to grow my skills, I joined a freelance platform, working with global teams on fast-paced projects. I gained more structured experience in regression, smoke, exploratory, and automation testing with Playwright (JavaScript) and focused on test script maintenance. I also expanded my expertise in cross-browser testing with tools like BrowserStack and LambdaTest, collaborating closely with developers and senior QAs to enhance testing efficiency.
 
-This portfolio showcases my practical skills, learnings, and continuous growth. My current focus is enhancing both manual, database, API and automation testing to increase test coverage and improve my skills
+This portfolio showcases my practical skills, learnings, and continuous growth. My current focus is enhancing manual, database, API and automation testing to increase test coverage and improve my skills
 
 
 # Tools
@@ -28,7 +28,6 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
   <li>Sanity Testing</li>
   <li>Exploratory testing</li>
   <li>Database testing</li>
-  <li>API Testing</li>
   <li>Automation testing</li>
   <li>Familiar with HTML, CSS, JavaScript, MySQL</li>
 </ul>
@@ -41,21 +40,21 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
   <li><a href="https://www.youtube.com/watch?v=0PbTi_Prpgs&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E" target="_blank">Computer Networking</a></li>
   <li><a href="https://www.youtube.com/watch?v=rOt53yFFTPQ&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E&index=29" target=_blank">USACS Hacker Hour: Chrome Developer Tools</a></li>
   <li><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc" target="_blank">HTML/CSS Full Course</a></li>
-  <li><a href="https://www.youtube.com/watch?v=EerdGm-ehJQ&t=15331s">JavaScript Full Course (⏳Ongoing)</li>
-  <li><a href="https://www.youtube.com/watch?v=OT1RErkfLNQ&t=2038s">MySQL Beginner to Advanced Course (⏳Ongoing)</li>
-  <li><a href="https://www.udemy.com/share/106cXG3@U5unrMpObe9-FERjhRtItFj93AbpApyzzc7bV8QJjcOK685JiQkfslA8K-pG-5VpiQ==/"></a>Playwright JS/TS Automation Testing from Scratch & Framework(⏳Ongoing)</li>
+  <li><a href="https://www.youtube.com/watch?v=EerdGm-ehJQ&t=15331s">JavaScript Full Course (⏳Ongoing)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=OT1RErkfLNQ&t=2038s">MySQL Beginner to Advanced Course (⏳Ongoing)</a></li>
+  <li><a href="https://www.udemy.com/share/106cXG3@U5unrMpObe9-FERjhRtItFj93AbpApyzzc7bV8QJjcOK685JiQkfslA8K-pG-5VpiQ==/">Playwright JS/TS Automation Testing from Scratch & Framework(⏳Ongoing)</a></li>
 </ul>
 
 # Certifications
 <ul>
 <li><a href="https://testlio.com/network/" target="_blank">Functional Regression Testing Certificate</a></li>
 <li><a href="https://drive.google.com/file/d/1t4QZwlTm1E534vzTvdfcgRQEZSAespr5/view?usp=sharing" target="_blank">Playwright - TestAutomationUniversity</a></li>
-<li><a href="https://badgr.com/public/assertions/0vpBEbP9TNu70MDTC_8ZKQ?identity__email=pananganancaleb@gmail.com"></a>Postman API Fundamentals Student Expert</li>
-<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/"></a>Responsive Web Design(FCC)(⏳Ongoing)</li>
+<li><a href="https://badgr.com/public/assertions/0vpBEbP9TNu70MDTC_8ZKQ?identity__email=pananganancaleb@gmail.com">Postman API Fundamentals Student Expert</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design(FCC)(⏳Ongoing)</a></li>
 <li><a href="https://drive.google.com/file/d/1H1lSLz3sM-ilws-zql8aWSNq78DZ3mQV/view?usp=sharing">Certificate of Completion HTML (Mimo) — Core concepts of websites and HTML basics</a></li>
 <li><a href="">CSS (Mimo)(⏳Ongoing)</a></li>
 <li><a href="">JavaScript (Mimo)(⏳Ongoing)</a></li>
-<li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/"></a>JavaScript Algorithms and Data Structures(FCC)(⏳Ongoing)</li>
+<li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">JavaScript Algorithms and Data Structures(FCC)(⏳Ongoing)</a></li>
 <li><a href="https://www.prc.gov.ph/" target="_blank">
 Registered Electrical Engineer - Professional Regulation Commission</a></li>  
 </ul>
@@ -131,7 +130,7 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 # Programming Projects
 <ul>
 <p><strong>1.Intelligent Traffic Light Based on Traffic Density</strong></p>
-  <li><a href="https://drive.google.com/file/d/1UDWmr1irvXdHfMDEHZGO1wltRLXu1JiK/view?usp=sharing"></a>Thesis and Prototype</li>
+  <li><a href="https://drive.google.com/file/d/1UDWmr1irvXdHfMDEHZGO1wltRLXu1JiK/view?usp=sharing">Thesis and Prototype</a></li>
 </ul>
 <ul>
 <p><strong>2.TO DO</strong></p>
