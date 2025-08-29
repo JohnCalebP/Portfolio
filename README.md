@@ -1,7 +1,7 @@
 # Portfolio
-I'm Caleb, a Software QA Tester with experience in manual, database, API and automation testing. I began my career executing test cases, ensuring platform stability, and reporting defects. As I aimed to grow my skills, I joined a freelance platform, working with global teams on fast-paced projects. I gained more structured experience in regression, smoke, exploratory, and automation testing with Playwright (JavaScript) and focused on test script maintenance. I also expanded my expertise in cross-browser testing with tools like BrowserStack and LambdaTest, collaborating closely with developers and senior QAs to enhance testing efficiency.
+I'm Caleb, a Software QA Tester with experience in manual, database, API and automation testing. I began my career executing test cases, ensuring platform stability, and reporting defects. As I aimed to grow my skills, I joined a freelance platform, working with global teams on fast-paced projects. I also expanded my expertise by collaborating closely with developers and experienced QAs to enhance my testing skills.
 
-This portfolio showcases my practical skills, learnings, and continuous growth. My current focus is enhancing manual, database, API and automation testing to increase test coverage and improve my skills
+This portfolio showcases my practical skills, learnings, and continuous growth. My current focus is enhancing manual, database, API and automation testing to increase test coverage and improve my skills.
 
 
 # Tools
@@ -28,8 +28,9 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
   <li>Sanity Testing</li>
   <li>Exploratory testing</li>
   <li>Database testing</li>
+  <li>API Testing</li>
   <li>Automation testing</li>
-  <li>Familiar with HTML, CSS, JavaScript, MySQL</li>
+  <li>Familiar with HTML, CSS, JavaScript and MySQL</li>
 </ul>
 
 # Courses
@@ -130,7 +131,7 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 # Programming Projects
 <ul>
 <p><strong>1.Intelligent Traffic Light Based on Traffic Density</strong></p>
-  <li><a href="https://drive.google.com/file/d/1UDWmr1irvXdHfMDEHZGO1wltRLXu1JiK/view?usp=sharing">Thesis and Prototype</a></li>
+<li><a href="https://drive.google.com/file/d/1UDWmr1irvXdHfMDEHZGO1wltRLXu1JiK/view?usp=sharing">Thesis and Prototype</a></li>
 </ul>
 <ul>
 <p><strong>2.TO DO</strong></p>
