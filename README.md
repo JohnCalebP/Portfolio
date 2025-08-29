@@ -11,6 +11,7 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
   <li><a href="https://developer.chrome.com/docs/devtools" target="_blank">Chrome DevTools</a> and <a href="https://www.charlesproxy.com/" target="_blank">Charles</a> - Debugging and inspecting web applications</li>
   <li><a href="https://www.testrail.com/" target="_blank">TestRail</a>, <a href="https://qase.io/" target="_blank">Qase</a>, <a href="https://docs.google.com/" target="_blank">Google Sheets</a> - Test documentation and management</li>
   <li><a href="https://www.postman.com/" target="_blank">Postman</a> - API testing</li>
+  <li><a href="https://www.postman.com/" target="_blank">MySQL Database</a> - Database testing</li>
   <li><a href="https://playwright.dev/" target="_blank">Playwright</a> - Automation testing</li>
   <li><a href="https://bitbucket.org/product/" target="_blank">Bitbucket</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://git-scm.com/" target="_blank">Git</a> - Version control and source code management</li>
 </ul>
@@ -26,6 +27,7 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
   <li>Smoke testing</li>
   <li>Sanity Testing</li>
   <li>Exploratory testing</li>
+  <li>Database testing</li>
   <li>Automation testing</li>
   <li>Familiar with HTML, CSS, JavaScript, MySQL</li>
 </ul>
