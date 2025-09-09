@@ -130,8 +130,8 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 
 # Programming Projects
 <ul>
-<p><strong>1.Intelligent Traffic Light Based on Traffic Density</strong></p>
-<li><a href="https://drive.google.com/file/d/1UDWmr1irvXdHfMDEHZGO1wltRLXu1JiK/view?usp=sharing">Thesis and Prototype</a></li>
+<p><strong>1.- Rock Paper Scissors Game — Built with HTML CSS JavaScript</strong></p>
+<li><a href="">View Project</a></li>
 </ul>
 <ul>
 <p><strong>2.TO DO</strong></p>
