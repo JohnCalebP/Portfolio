@@ -130,8 +130,8 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 
 # Programming Projects
 <ul>
-<p><strong>1.- Rock Paper Scissors Game — Built with HTML CSS JavaScript</strong></p>
-<li><a href="">View Project</a></li>
+<p><strong>1. Rock Paper Scissors Game — Built with HTML CSS JavaScript</strong></p>
+<li><a href="https://github.com/JohnCalebP/RockPaperScissor-Project.git">View Project</a></li>
 </ul>
 <ul>
 <p><strong>2.TO DO</strong></p>
