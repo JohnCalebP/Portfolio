@@ -41,7 +41,7 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
   <li><a href="https://www.youtube.com/watch?v=0PbTi_Prpgs&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E" target="_blank">Computer Networking</a></li>
   <li><a href="https://www.youtube.com/watch?v=rOt53yFFTPQ&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E&index=29" target=_blank">USACS Hacker Hour: Chrome Developer Tools</a></li>
   <li><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc" target="_blank">HTML/CSS Full Course</a></li>
-  <li><a href="https://www.youtube.com/watch?v=EerdGm-ehJQ&t=15331s">JavaScript Full Course (⏳Ongoing)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=EerdGm-ehJQ&t=15331s">JavaScript Full Course</a></li>
   <li><a href="https://www.youtube.com/watch?v=OT1RErkfLNQ&t=2038s">MySQL Beginner to Advanced Course (⏳Ongoing)</a></li>
   <li><a href="https://www.udemy.com/share/106cXG3@U5unrMpObe9-FERjhRtItFj93AbpApyzzc7bV8QJjcOK685JiQkfslA8K-pG-5VpiQ==/">Playwright JS/TS Automation Testing from Scratch & Framework(⏳Ongoing)</a></li>
 </ul>
@@ -53,8 +53,8 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
 <li><a href="https://badgr.com/public/assertions/0vpBEbP9TNu70MDTC_8ZKQ?identity__email=pananganancaleb@gmail.com">Postman API Fundamentals Student Expert</a></li>
 <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design(FCC)(⏳Ongoing)</a></li>
 <li><a href="https://drive.google.com/file/d/1H1lSLz3sM-ilws-zql8aWSNq78DZ3mQV/view?usp=sharing">Certificate of Completion HTML (Mimo) — Core concepts of websites and HTML basics</a></li>
-<li><a href="">CSS (Mimo)(⏳Ongoing)</a></li>
-<li><a href="">JavaScript (Mimo)(⏳Ongoing)</a></li>
+<li><a href="">CSS (Mimo)</a></li>
+<li><a href="">JavaScript (Mimo)</a></li>
 <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">JavaScript Algorithms and Data Structures(FCC)(⏳Ongoing)</a></li>
 <li><a href="https://www.prc.gov.ph/" target="_blank">
 Registered Electrical Engineer - Professional Regulation Commission</a></li>  
