@@ -30,7 +30,7 @@ This portfolio showcases my practical skills, learnings, and continuous growth. 
   <li>Database testing</li>
   <li>API Testing</li>
   <li>Automation testing</li>
-  <li>Familiar with HTML, CSS, JavaScript and MySQL</li>
+  <li>HTML, CSS, JavaScript and MySQL</li>
 </ul>
 
 # Courses
@@ -68,24 +68,13 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 <li><a href="https://drive.google.com/file/d/1TqQ62bo0MamQ5OWoJOXorsLVul5CcO-H/view?usp=sharing" target="_blank">Bug Report</a></li>
 </ul>
 <ul>
-<p><strong>2.Inventory Management System</strong></p>  
-  <li><a href="https://drive.google.com/file/d/1ynZeFAUvQMC8ENlifclcVxCvkqkP1MpN/view?usp=sharing" target="_blank">Test Plan</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1jy-m-eRfG7D55unyU7DkXTKx2C8SvFRZ/edit?usp=sharing" target="_blank">Test Case</a></li>
-  <li><a href="https://drive.google.com/file/d/1nURxxiBZlzHV7dDzXfMeO9-S0k4Ychpx/view?usp=sharing" target="_blank">Bug Report</a></li>
-</ul>
-<ul>
-<p><strong>3.Order Management System</strong></p>
-  <li><a href="https://docs.google.com/spreadsheets/d/1swbUDE_zS6xw3ozh3QQXwfFaUuVlHcB6/edit?usp=sharing" target=_blank">Test Case</a></li>
-  <li><a href="https://drive.google.com/file/d/16px5A9smDjQe2NpYZUiovN82iP6shA8K/view?usp=sharing" target="_blank">Bug Report</a></li>
-</ul>
-<ul>
-<p><strong>4.Banking Website</strong></p>
+<p><strong>2. Banking Website</strong></p>
 <li>Test Case(TO DO)</li>
 <li>Bug Report(TO DO)</li>
 </ul>
 <ul>
-  <p><strong>5. Travel Booking Website</strong></p>
-  <li>Test Case(TO DO)</li>
+<p><strong>3.Travel Booking Website</strong></p>
+<li>Test Case(TO DO)</li>
 <li>Bug Report(TO DO)</li>
 </ul>
 
