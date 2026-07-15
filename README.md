@@ -114,13 +114,18 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 <p><strong>3.TO DO</p>
 </ul>
 
-<h1>Programming Projects</h1> 
+
+<h1>Programming Projects</h1>
 
 <p>1. Automated Text Styling in Google Sheets</p>
-
 <p>Tech Stack: JavaScript, Google Apps Script, Google Sheets</p>
+<p>Repository: <a href="https://github.com/JohnCalebP/sample">GitHub</a></p>
 
-<p>Repository: Sample Repo </p>
+<br>
+
+<p>2. TO DO</p>
+<p>Tech Stack:</p>
+<p>Repository:</p>
 
 <h2><strong>Blog</strong></h2>
 <ul>
