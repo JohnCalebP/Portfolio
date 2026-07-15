@@ -1,19 +1,5 @@
 # Portfolio
-I'm Caleb, a Software QA Tester with hands on experience in functional testing, UI/manual testing, database testing, API testing, and test automation.
-
-My QA journey started in freelancing, where I was paid based on the number and severity of bugs I found. Since my income depended on delivering quality results, I quickly developed strong skills in exploratory testing, test case execution, and identifying edge cases that others often missed. It was a challenging but rewarding environment that pushed me to improve rapidly.
-
-As I gained more projects, I realized that freelancing came with uncertainty. There were days when I had to work 16 hours just to keep up with the workload, while other times there was little to no work at all. I wanted stability, the opportunity to collaborate with experienced professionals, and the chance to grow in a structured environment. That motivated me to pursue a full-time QA role.
-
-Fortunately, I was given that opportunity. Working in professional QA teams allowed me to learn far beyond executing test cases. I absorbed different QA processes and workflows, testing strategies, risk management approaches, test case management practices, and the tools used throughout the software development lifecycle. I experienced project-based environments, collaborated closely with developers, worked on both short-term and long-term projects, and adapted to teams with different structures and methodologies.
-
-As my experience grew, I realized that becoming highly competent in QA wasn't just a career goal—it became a personal mission. I don't want to specialize in only one type of project or company. Instead, I strive to build a broad and deep skill set that enables me to provide value regardless of the industry, business, or software being developed. My goal is to become someone who can confidently solve QA-related challenges wherever they're needed.
-
-This portfolio represents that journey. It showcases my practical skills, projects, continuous learning, and professional growth. More than demonstrating what I can do today, it reflects how far I've come and my commitment to continuous improvement.
-
-My ultimate goal is to achieve mastery in Software Quality Assurance. I enjoy solving complex problems because every testing challenge is like a puzzle waiting to be solved. And when I encounter something unfamiliar, I'm confident in my ability to learn, adapt, and find the best solution. That's the value I aim to bring to every team and every project I work on.
-
-
+<p>I'm Caleb, a Software QA Tester with hands on experience in functional testing, UI and manual testing, database testing, API testing, and test automation. I started my career in freelance QA, where I developed strong exploratory testing skills before transitioning to full time roles that expanded my expertise in QA processes, collaboration, and automation. I'm committed to continuously improving my skills and delivering high quality software through thorough, risk focused testing.</p>
 
 # Tools
 <ul>
