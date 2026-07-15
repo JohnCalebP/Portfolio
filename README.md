@@ -123,13 +123,13 @@ I'm Caleb, a Software QA Tester with hands on experience in functional testing, 
 
 # Programming Projects
 
-## 1. Automated Text Styling in Google Sheets
+## 1. QA Google Sheets Automation
 
-Automatically applies rich text styling to specific words in Google Sheets while preserving existing formatting and hyperlinks.
+Google Apps Script automation tools for QA engineers to manage and maintain test cases in Google Sheets.
 
 **Tech Stack:** JavaScript, Google Apps Script, Google Sheets
 
-**Repository:** [GitHub](https://github.com/JohnCalebP/sample)
+**Repository:** <a href="https://github.com/JohnCalebP/qa-google-sheets-automation.git">GitHub</a>
 
 ---
 
