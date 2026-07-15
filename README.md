@@ -1,137 +1,160 @@
-<h1>Portfolio</h1>
-<p>I'm Caleb, a Software QA Tester with hands on experience in functional testing, UI and manual testing, database testing, API testing, and test automation. I started my career in freelance QA, where I developed strong exploratory testing skills before transitioning to full time roles that expanded my expertise in QA processes, collaboration, and automation. I'm committed to continuously improving my skills and delivering high quality software through thorough, risk focused testing.</p>
+# Portfolio
 
-<h1>Tools</h1>
-<ul>
-  <li><a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a> - Bug Tracking Tool</li>
-  <li><a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>, <a href="https://www.lambdatest.com/" target="_blank">Lambdatest</a> - Cross browser & Cross device testing</li>
-  <li><a href="https://developer.chrome.com/docs/devtools" target="_blank">Chrome DevTools</a> and <a href="https://www.charlesproxy.com/" target="_blank">Charles</a> - Debugging and inspecting web applications</li>
-  <li><a href="https://www.testrail.com/" target="_blank">TestRail</a>, <a href="https://qase.io/" target="_blank">Qase</a>, <a href="https://docs.google.com/" target="_blank">Google Sheets</a> - Test documentation and management</li>
-  <li><a href="https://www.postman.com/" target="_blank">Postman</a> - API testing</li>
-  <li><a href="https://www.postman.com/" target="_blank">MySQL Database</a> - Database testing</li>
-  <li><a href="https://playwright.dev/" target="_blank">Playwright</a> - Automation testing</li>
-  <li><a href="https://bitbucket.org/product/" target="_blank">Bitbucket</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://git-scm.com/" target="_blank">Git</a> - Version control and source code management</li>
-</ul>
+I'm Caleb, a Software QA Tester with hands on experience in functional testing, UI and manual testing, database testing, API testing, and test automation. I started my career in freelance QA, where I developed strong exploratory testing skills before transitioning to full time roles that expanded my expertise in QA processes, collaboration, and automation. I'm committed to continuously improving my skills and delivering high quality software through thorough, risk focused testing.
 
-<h1>Tech skills</h1>
-<ul>
-  <li>Creating and Managing test cases</li>
-  <li>Finding and Reporting bugs</li>
-  <li>Creating Test Documentation and Test Data</li>
-  <li>Agile Scrum workflow</li>
-  <li>Functional testing</li>
-  <li>Regression testing</li>
-  <li>Smoke testing</li>
-  <li>Sanity Testing</li>
-  <li>Exploratory testing</li>
-  <li>Database testing</li>
-  <li>API Testing</li>
-  <li>Automation testing</li>
-  <li>HTML, CSS, JavaScript and MySQL</li>
-</ul>
+# Tools
 
-<h1>Courses</h1>
-<ul>
-  <li><a href="https://www.udemy.com/course/istqb-certified-tester-foundation-level-training-ctfl/" target=_blank">ISTQB Certified Tester Foundation Level (CTFL)</a></li>
-  <li><a href="https://www.udemy.com/course/agile-with-scrum-from-beginner-to-advanced-project-management-agile/" target="_blank">Agile with Scrum</a></li>
-  <li><a href="https://www.udemy.com/course/sdlc-models/" target="_blank">SDLC Models</a></li>
-  <li><a href="https://www.youtube.com/watch?v=0PbTi_Prpgs&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E" target="_blank">Computer Networking</a></li>
-  <li><a href="https://www.youtube.com/watch?v=rOt53yFFTPQ&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E&index=29" target=_blank">USACS Hacker Hour: Chrome Developer Tools</a></li>
-  <li><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc" target="_blank">HTML/CSS Full Course</a></li>
-  <li><a href="https://www.youtube.com/watch?v=EerdGm-ehJQ&t=15331s">JavaScript Full Course</a></li>
-  <li><a href="https://www.youtube.com/watch?v=OT1RErkfLNQ&t=2038s">MySQL Beginner to Advanced Course (⏳Ongoing)</a></li>
-  <li><a href="https://www.udemy.com/share/106cXG3@U5unrMpObe9-FERjhRtItFj93AbpApyzzc7bV8QJjcOK685JiQkfslA8K-pG-5VpiQ==/">Playwright JS/TS Automation Testing from Scratch & Framework(⏳Ongoing)</a></li>
-</ul>
+* [Jira](https://www.atlassian.com/software/jira), Bug Tracking Tool
+* [BrowserStack](https://www.browserstack.com/), [LambdaTest](https://www.lambdatest.com/), Cross browser and cross device testing
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools) and [Charles](https://www.charlesproxy.com/), Debugging and inspecting web applications
+* [TestRail](https://www.testrail.com/), [Qase](https://qase.io/), [Google Sheets](https://docs.google.com/), Test documentation and management
+* [Postman](https://www.postman.com/), API testing
+* MySQL Database, Database testing
+* [Playwright](https://playwright.dev/), Automation testing
+* [Bitbucket](https://bitbucket.org/product/), [GitHub](https://github.com/), and [Git](https://git-scm.com/), Version control and source code management
 
-<h1>Certifications</h1>
-<ul>
-<li><a href="https://testlio.com/network/" target="_blank">Functional Regression Testing Certificate</a></li>
-<li><a href="https://drive.google.com/file/d/1t4QZwlTm1E534vzTvdfcgRQEZSAespr5/view?usp=sharing" target="_blank">Playwright - TestAutomationUniversity</a></li>
-<li><a href="https://badgr.com/public/assertions/0vpBEbP9TNu70MDTC_8ZKQ?identity__email=pananganancaleb@gmail.com">Postman API Fundamentals Student Expert</a></li>
-<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design(FCC)(⏳Ongoing)</a></li>
-<li><a href="https://drive.google.com/file/d/1H1lSLz3sM-ilws-zql8aWSNq78DZ3mQV/view?usp=sharing">Certificate of Completion HTML (Mimo) — Core concepts of websites and HTML basics</a></li>
-<li><a href="">CSS (Mimo)</a></li>
-<li><a href="">JavaScript (Mimo)</a></li>
-<li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">JavaScript Algorithms and Data Structures(FCC)(⏳Ongoing)</a></li>
-<li><a href="https://www.prc.gov.ph/" target="_blank">
-Registered Electrical Engineer - Professional Regulation Commission</a></li>  
-</ul>
+# Tech Skills
 
-<h1> Manual Testing Portfolio</h1>
-<ul>
-<p><strong>1. E-Commerce Website</strong></p>
-<li><a href="https://shop.polymer-project.org/">E-Commerce Website</a></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1vJg_ushpWhw-F99yORnwyDNRtDQQZY63/edit?usp=sharing&ouid=104076983359367485293&rtpof=true&sd=true" target="_blank">Test Case</a></li>
-<li><a href="https://drive.google.com/file/d/1TqQ62bo0MamQ5OWoJOXorsLVul5CcO-H/view?usp=sharing" target="_blank">Bug Report</a></li>
-</ul>
-<ul>
-<p><strong>2. Banking Website</strong></p>
-<li>Test Case(TO DO)</li>
-<li>Bug Report(TO DO)</li>
-</ul>
-<ul>
-<p><strong>3.Travel Booking Website</strong></p>
-<li>Test Case(TO DO)</li>
-<li>Bug Report(TO DO)</li>
-</ul>
+* Creating and Managing Test Cases
+* Finding and Reporting Bugs
+* Creating Test Documentation and Test Data
+* Agile Scrum Workflow
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* Sanity Testing
+* Exploratory Testing
+* Database Testing
+* API Testing
+* Automation Testing
+* HTML, CSS, JavaScript, and MySQL
 
-<h1>Automation Testing Portfolio</h1>
-<ul>
-<p><strong>1.E-Commerce Website</strong></p>
-<li>TO DO</li>
-</ul>
-<ul>
-<p><strong>2.Banking Website</strong></p>
-<li>TO DO</li>
-</ul>
-<ul>
-<p><strong>3.Travel Booking Website</strong></p>
-<li>TO DO</li>
-</ul>
+# Courses
 
-<h1>API Testing Portfolio</h1>
-<ul>
-<p><strong>1.E-Commerce Website</strong></p>
-<li>TO DO</li>
-</ul>
-<ul>
-<p><strong>2.Banking Website</strong></p>
-<li>TO DO</li>
-</ul>
-<ul>
-<p><strong>3.Travel Booking Website</strong></p>
-<li>TO DO</li>
-</ul>
+* [ISTQB Certified Tester Foundation Level (CTFL)](https://www.udemy.com/course/istqb-certified-tester-foundation-level-training-ctfl/)
+* [Agile with Scrum](https://www.udemy.com/course/agile-with-scrum-from-beginner-to-advanced-project-management-agile/)
+* [SDLC Models](https://www.udemy.com/course/sdlc-models/)
+* [Computer Networking](https://www.youtube.com/watch?v=0PbTi_Prpgs&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E)
+* [USACS Hacker Hour, Chrome Developer Tools](https://www.youtube.com/watch?v=rOt53yFFTPQ&list=PLM8t3TeXnLTTH6jLYTRDM2tlrrJUP2O3E&index=29)
+* [HTML and CSS Full Course](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+* [JavaScript Full Course](https://www.youtube.com/watch?v=EerdGm-ehJQ&t=15331s)
+* [MySQL Beginner to Advanced Course](https://www.youtube.com/watch?v=OT1RErkfLNQ&t=2038s), Ongoing
+* [Playwright JS and TS Automation Testing from Scratch and Framework](https://www.udemy.com/share/106cXG3@U5unrMpObe9-FERjhRtItFj93AbpApyzzc7bV8QJjcOK685JiQkfslA8K-pG-5VpiQ==/), Ongoing
 
-<h1> Database Testing Portfolio </h1>
-<ul>
-<p><strong>1.TO DO</strong></p>
-</ul>
-<ul>
-<p><strong>2.TO DO</strong></p>
-</ul>
-<ul>
-<p><strong>3.TO DO</p>
-</ul>
+# Certifications
+
+* [Functional Regression Testing Certificate](https://testlio.com/network/)
+* [Playwright, Test Automation University](https://drive.google.com/file/d/1t4QZwlTm1E534vzTvdfcgRQEZSAespr5/view?usp=sharing)
+* [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/0vpBEbP9TNu70MDTC_8ZKQ?identity__email=pananganancaleb@gmail.com)
+* [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/), Ongoing
+* [Certificate of Completion, HTML, Mimo](https://drive.google.com/file/d/1H1lSLz3sM-ilws-zql8aWSNq78DZ3mQV/view?usp=sharing)
+* CSS, Mimo
+* JavaScript, Mimo
+* [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), Ongoing
+* [Registered Electrical Engineer, Professional Regulation Commission](https://www.prc.gov.ph/)
 
 
-<h1>Programming Projects</h1>
+# Manual Testing Portfolio
 
-<p>1. Automated Text Styling in Google Sheets</p>
-<p>Tech Stack: JavaScript, Google Apps Script, Google Sheets</p>
-<p>Repository: <a href="https://github.com/JohnCalebP/sample">GitHub</a></p>
+## 1. E Commerce Website
 
-<br>
+* **Website:** [E Commerce Website](https://shop.polymer-project.org/)
+* **Test Case:** [View Test Case](https://docs.google.com/spreadsheets/d/1vJg_ushpWhw-F99yORnwyDNRtDQQZY63/edit?usp=sharing&ouid=104076983359367485293&rtpof=true&sd=true)
+* **Bug Report:** [View Bug Report](https://drive.google.com/file/d/1TqQ62bo0MamQ5OWoJOXorsLVul5CcO-H/view?usp=sharing)
 
-<p>2. TO DO</p>
-<p>Tech Stack:</p>
-<p>Repository:</p>
+---
 
-<h2><strong>Blog</strong></h2>
-<ul>
-  <p><strong>Medium</strong></p>
-  <p>https://medium.com/@johncalebpananganan</p>
-</ul>
+## 2. Banking Website
+
+* **Test Case:** TO DO
+* **Bug Report:** TO DO
+
+---
+
+## 3. Travel Booking Website
+
+* **Test Case:** TO DO
+* **Bug Report:** TO DO
+
+# Automation Testing Portfolio
+
+## 1. E Commerce Website
+
+* TO DO
+
+---
+
+## 2. Banking Website
+
+* TO DO
+
+---
+
+## 3. Travel Booking Website
+
+* TO DO
+
+# API Testing Portfolio
+
+## 1. E Commerce Website
+
+* TO DO
+
+---
+
+## 2. Banking Website
+
+* TO DO
+
+---
+
+## 3. Travel Booking Website
+
+* TO DO
+
+# Database Testing Portfolio
+
+## 1. TO DO
+
+## 2. TO DO
+
+## 3. TO DO
 
 
+# Programming Projects
 
+## 1. Automated Text Styling in Google Sheets
+
+Automatically applies rich text styling to specific words in Google Sheets while preserving existing formatting and hyperlinks.
+
+**Tech Stack:** JavaScript, Google Apps Script, Google Sheets
+
+**Repository:** [GitHub](https://github.com/JohnCalebP/sample)
+
+---
+
+## 2. TO DO
+
+Description
+
+**Tech Stack:**
+
+**Repository:**
+
+---
+
+## 3. TO DO
+
+Description
+
+**Tech Stack:**
+
+**Repository:**
+
+# Blog
+
+## Medium
+
+Read my articles on Medium:
+
+**Profile:** https://medium.com/@johncalebpananganan
