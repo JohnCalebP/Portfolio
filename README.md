@@ -116,11 +116,11 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 
 <h1>Programming Projects</h1> 
 
-<h2><strong>1. Automated Text Styling in Google Sheets</strong></h2>
+<p>1. Automated Text Styling in Google Sheets</p>
 
 <p>Tech Stack: JavaScript, Google Apps Script, Google Sheets</p>
 
-<p>epository: Sample Repo </p>
+<p>Repository: Sample Repo </p>
 
 <h2><strong>Blog</strong></h2>
 <ul>
