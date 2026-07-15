@@ -42,14 +42,13 @@ I'm Caleb, a Software QA Tester with hands on experience in functional testing, 
 * [Playwright JS and TS Automation Testing from Scratch and Framework](https://www.udemy.com/share/106cXG3@U5unrMpObe9-FERjhRtItFj93AbpApyzzc7bV8QJjcOK685JiQkfslA8K-pG-5VpiQ==/), Ongoing
 
 # Certifications
-
 * [Functional Regression Testing Certificate](https://testlio.com/network/)
 * [Playwright, Test Automation University](https://drive.google.com/file/d/1t4QZwlTm1E534vzTvdfcgRQEZSAespr5/view?usp=sharing)
 * [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/0vpBEbP9TNu70MDTC_8ZKQ?identity__email=pananganancaleb@gmail.com)
+* [Certificate of Completion, HTML, Mimo](https://drive.google.com/file/d/1GbbetdaYLTQbesjbt8HfR0cJGI__uzzb/view?usp=sharing)
+* [Certificate of Completion,CSS, Mimo](https://drive.google.com/file/d/1484AkzPTVtgOHbyNk7KYRRI3NjZCdgeM/view?usp=sharing)
+* [Certificate of Completion, JavaScript, Mimo](https://drive.google.com/file/d/1coMganNtlT0N0_HH-0uakfXh3PXPXY6P/view?usp=sharing)
 * [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/), Ongoing
-* [Certificate of Completion, HTML, Mimo](https://drive.google.com/file/d/1H1lSLz3sM-ilws-zql8aWSNq78DZ3mQV/view?usp=sharing)
-* CSS, Mimo
-* JavaScript, Mimo
 * [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), Ongoing
 * [Registered Electrical Engineer, Professional Regulation Commission](https://www.prc.gov.ph/)
 
@@ -133,23 +132,6 @@ Google Apps Script automation tools for QA engineers to manage and maintain test
 
 ---
 
-## 2. TO DO
-
-Description
-
-**Tech Stack:**
-
-**Repository:**
-
----
-
-## 3. TO DO
-
-Description
-
-**Tech Stack:**
-
-**Repository:**
 
 # Blog
 
