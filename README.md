@@ -7,7 +7,7 @@ I'm Caleb, a Software QA Tester with hands on experience in functional testing, 
 * [Jira](https://www.atlassian.com/software/jira), Bug Tracking Tool
 * [BrowserStack](https://www.browserstack.com/), [LambdaTest](https://www.lambdatest.com/), Cross browser and cross device testing
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools) and [Charles](https://www.charlesproxy.com/), Debugging and inspecting web applications
-* [TestRail](https://www.testrail.com/), [Qase](https://qase.io/), [Google Sheets](https://docs.google.com/), Test documentation and management
+* [TestRail](https://www.testrail.com/), [Qase](https://qase.io/), [Google Sheets](https://docs.google.com/),[App Script](https://developers.google.com/apps-script) Test documentation and management
 * [Postman](https://www.postman.com/), API testing
 * MySQL Database, Database testing
 * [Playwright](https://playwright.dev/), Automation testing
