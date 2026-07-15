@@ -115,17 +115,10 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 </ul>
 
 # Programming Projects
-<ul>
-<p><strong>1. Rock Paper Scissors Game — Built with HTML CSS JavaScript</strong></p>
-<li><a href="https://github.com/JohnCalebP/RockPaperScissor-Project.git">View Source Code</a></li>
-<li><a href="https://johncalebp.github.io/RockPaperScissor-Project/">View Demo</a></li>
-</ul>
-<ul>
-<p><strong>2.TO DO</strong></p>
-</ul>
-<ul>
-<p><strong>3.TO DO</p>
-</ul>
+
+## 1. Automated Text Styling in Google Sheets
+**Tech Stack:** JavaScript, Google Apps Script, Google Sheets
+**Repository:** [GitHub](https://github.com/JohnCalebP/sample)
 
 # Blog
 <ul>
