@@ -65,8 +65,9 @@ I'm Caleb, a Software QA Tester with hands on experience in functional testing, 
 
 ## 2. Banking Website
 
-* **Test Case:** TO DO
-* **Bug Report:** TO DO
+* **Website:** [Banking Website](https://parabank.parasoft.com/parabank/index.htm)
+* **Test Case:** [View Test Case](https://docs.google.com/spreadsheets/d/1H3EtrRVEE6KUiRU2M4DbjzQynIAfO1uI/edit?usp=sharing&ouid=104076983359367485293&rtpof=true&sd=true)
+* **Bug Report:** [View Bug Report - todo]()
 
 ---
 
