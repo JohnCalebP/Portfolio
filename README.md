@@ -114,15 +114,15 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 <p><strong>3.TO DO</p>
 </ul>
 
-# Programming Projects
+<h1>Programming Projects</h1> 
 
-## 1. Automated Text Styling in Google Sheets
+<h2><strong>1. Automated Text Styling in Google Sheets</strong></h2>
 
 <p><strong>Tech Stack:</strong> JavaScript, Google Apps Script, Google Sheets</p>
 
 <p><strong>Repository:</strong> Sample Repo </p>
 
-# Blog
+<h2><strong>Blog</strong></h2>
 <ul>
   <p><strong>Medium</strong></p>
   <p>https://medium.com/@johncalebpananganan</p>
