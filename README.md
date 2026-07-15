@@ -117,8 +117,8 @@ Registered Electrical Engineer - Professional Regulation Commission</a></li>
 # Programming Projects
 
 ## 1. Automated Text Styling in Google Sheets
-**Tech Stack:** JavaScript, Google Apps Script, Google Sheets
-**Repository:** [GitHub](https://github.com/JohnCalebP/sample)
+**Tech Stack:** JavaScript, Google Apps Script, Google Sheets ---
+**Repository:** [GitHub](https://github.com/JohnCalebP/sample) ---
 
 # Blog
 <ul>
